@@ -8,6 +8,8 @@
     width: 100vw;
     height: 97vh;
     overflow-x: hidden;
+    overflow-y: hidden;
+    scroll-behavior: auto;
 }
 
 /* -------------------Navigation Bar-------------- */
@@ -92,8 +94,8 @@
 
 .star1{
     position: absolute;
-    left: 1328px;
-    top: 29px;
+    left: 1200px;
+    top: 50px;
    
 }
 .star1 img{
